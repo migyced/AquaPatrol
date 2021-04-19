@@ -42,4 +42,4 @@ class Octopus extends Phaser.GameObjects.Sprite{
         this.y = game.config.height - borderPadding - borderUISize;
     }
 
-}
+}//
